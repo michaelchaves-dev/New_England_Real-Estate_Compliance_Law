@@ -2,13 +2,51 @@
 
 Landlord-tenant compliance registry for Massachusetts.
 
-**Status:** Populated from baseline Massachusetts Tenant Rights Report (current as of **July 28, 2026**).
+**Status:** Baseline renters’ rights report + risk-classified overview (current as of **July 28, 2026**).
 
 > **Disclaimer:** Informational compliance report only. Not legal advice. Verify statutes, regulations, and case law against official sources before relying on them operationally.
 
 ---
 
-# Massachusetts Tenant Rights Report
+# Risk-Classified Overview (New Laws & Core Rights)
+
+As of **July 28, 2026**. Informational compliance summary mapped to registry severity levels. The full baseline report follows below.
+
+## High Severity / Statutory Risk
+
+* **Move-in charges and broker fees:** A landlord or landlord’s agent generally may require only first month’s rent, last month’s rent, one-month security deposit, and lock/key cost at move-in. Since **August 1, 2025**, a broker fee may be charged only to the party who originally hired and contracted with the broker, landlord or tenant. Sources: Mass. Gen. Laws c. 186, §15B and c. 112, §87DDD½. ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15b)) ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter112/Section87DDD.5))
+* **Security deposits:** Deposit is capped at one month’s rent; landlord must provide a statement of condition, hold funds properly, pay/credit interest, and return the deposit or a sworn itemized damage list within required timelines. Violations can trigger forfeiture, treble damages, costs, and attorney’s fees depending on the violation. ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15b))
+* **Habitability:** Rental housing must meet the Massachusetts State Sanitary Code, including minimum health, safety, heat, hot water, water, sanitation, structural, and occupancy standards. Mass.gov identifies 105 CMR 410 as the minimum standards for human habitation. ([mass.gov](https://www.mass.gov/regulations/105-CMR-41000-minimum-standards-of-fitness-for-human-habitation-state-sanitary-code-chapter-ii))
+* **Utilities, lockouts, quiet enjoyment:** Landlords cannot intentionally shut off required utilities/services, transfer utility responsibility without tenant consent, interfere with quiet enjoyment, or regain possession by force without court process. Liability can include actual/consequential damages or **three months’ rent, whichever is greater**, plus costs and attorney’s fees. ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section14))
+* **Eviction process:** Landlords must use court process; a Notice to Quit is required before filing summary process. For nonpayment, tenants may have cure rights, and pending emergency rental assistance can delay judgment or execution in covered nonpayment cases. ([mass.gov](https://www.mass.gov/info-details/receiving-a-notice-to-quit)) ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section12)) ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter239/Section15))
+
+## Public Record / Case Law
+
+* **Security deposit wear-and-tear rule:** In **Peebles v. JRK Property Holdings, Inc.**, decided August 1, 2025, the SJC held that landlords may not deduct from security deposits for reasonable wear and tear, including ordinary deterioration that may require painting, carpet cleaning/repair, or similar refurbishment. Lease provisions that effectively charge tenants for such wear and tear through move-out cleaning or repair schedules can be void and unenforceable. ([law.justia.com](https://law.justia.com/cases/massachusetts/supreme-court/2025/sjc-13702.html))
+
+## Core Tenant Rights
+
+* **Rent withholding and defenses:** In eviction cases for nonpayment or no-fault termination, tenants may raise habitability, breach-of-warranty, lease, and legal violations as defenses/counterclaims if statutory conditions are met. ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter239/Section8A))
+* **Repair-and-deduct:** If certified habitability violations may endanger or materially impair health/safety, the landlord gets written notice and fails to begin repairs within 5 days or substantially complete within 14 days, tenants may make repairs and deduct up to four months’ rent in a 12-month period, subject to limits. ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111/Section127L))
+* **Retaliation protection:** Landlords cannot retaliate because a tenant reports code violations, enforces housing laws, joins/organizes a tenants’ union, or takes other protected actions. Adverse action within six months can create a rebuttable presumption of retaliation. ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section18)) ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter239/Section2A))
+* **Rent increases:** For tenants at will, either side can terminate with written notice equal to the rental period or 30 days, whichever is longer. A rent increase is typically handled as termination of the old tenancy plus an offer of a new tenancy at higher rent. ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section12))
+* **Water submetering:** Tenants may be charged separately for water only if strict submetering, conservation-device, written-disclosure, billing, certification, and maintenance rules are met. Landlords cannot shut off water because a tenant has not paid a submetered water bill. ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section22))
+* **Lead paint:** If a child under six lives in a unit with dangerous lead levels, the owner must abate or contain the hazard. Owners must provide lead notifications for relevant pre-1978 housing, and they cannot refuse to rent or evict because of children and lead-paint obligations. ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111/Section197)) ([mass.gov](https://www.mass.gov/info-details/learn-about-massachusetts-lead-law))
+* **Fair housing:** Massachusetts fair housing protections cover discrimination issues including families with children, disability, source of income/vouchers, and lead-paint-related steering or refusal. ([mass.gov](https://www.mass.gov/info-details/overview-of-fair-housing-law)) ([mass.gov](https://www.mass.gov/info-details/overview-of-housing-discrimination))
+* **Domestic violence, sexual assault, rape, or stalking:** Qualified tenants may terminate a tenancy for safety reasons and may request lock changes. Landlords generally must make a good-faith effort to change locks or authorize the tenant to do so within two business days. ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section24)) ([malegislature.gov](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section26))
+* **Consumer protection:** Massachusetts AG regulation 940 CMR 3.17 treats many landlord-tenant violations as unfair or deceptive practices, including improper fees, failure to provide signed leases, improper security-deposit handling, premature eviction filings, and certain late-fee practices. ([law.cornell.edu](https://www.law.cornell.edu/regulations/massachusetts/940-CMR-3-17))
+
+## Watch List
+
+* Rent control/rent cap proposals remain a political and legal watch item in Massachusetts, but statewide rent control is not currently the operating rule unless and until enacted. Local proposals may still matter for portfolio planning.
+
+## Gap Analysis (Risk Overview)
+
+* This statewide summary does not cover every city ordinance. Boston, Cambridge, Somerville, Worcester, and other municipalities may add rental registration, inspection, occupancy, short-term rental, or local enforcement requirements. For a property-specific answer, the city/town and housing type matter.
+
+---
+
+# Massachusetts Tenant Rights Report (Baseline)
 
 **Scope:** Massachusetts residential tenant rights, current as of **July 28, 2026**. Informational compliance report, not legal advice.
 
