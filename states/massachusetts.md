@@ -2,674 +2,243 @@
 
 Landlord-tenant compliance registry for Massachusetts.
 
-**Status:** Populated from Tenant Rights & Assistance Report (current through July 2026).
+**Status:** Populated from Massachusetts Tenant Rights Report (current as of **July 28, 2026**).
 
-> **Disclaimer:** Informational only. Identifies controlling statutes, regulations, court procedures, complaint channels, and assistance programs. Does not replace case-specific legal advice.
-
----
-
-# Massachusetts Tenant Rights & Assistance Report
-
-**Current through July 2026.** This report identifies the controlling statutes, regulations, court procedures, complaint channels, and assistance programs. It is informational and does not replace case-specific legal advice.
-
-## 1. Eviction notices, court procedure, defenses, and emergency stays
-
-A Massachusetts landlord cannot lawfully change the locks, remove a tenant’s belongings, shut off essential services, or physically force a tenant out without first obtaining a court judgment and an **execution for possession** through a summary-process case. Self-help eviction is prohibited by **M.G.L. c. 186, §14** and the formal eviction process is governed principally by **M.G.L. c. 239**. ([Massachusetts Government][1])
-
-### Required notices
-
-**Nonpayment under a written lease:**
-Under **M.G.L. c. 186, §11**, a landlord generally uses a **14-day written notice to quit**. A tenant under a written lease may cure by paying or tendering all rent due, interest, and court costs by the answer deadline, unless the tenancy documents or facts change the applicable rule. ([Massachusetts Legislature][2])
-
-**Tenant at will:**
-Under **M.G.L. c. 186, §12**, termination generally requires notice equal to the rental-payment interval or **30 days, whichever is longer**. If rent is payable at intervals of three months or more, three months’ notice applies. ([Massachusetts Legislature][3])
-
-A notice to quit is **not itself an eviction order**. The landlord must still serve a summons and complaint, prove the case, obtain judgment, receive an execution, and use an authorized constable or sheriff to carry out removal. ([Massachusetts Government][4])
-
-### Court response and forms
-
-Tenants should not ignore either:
-
-* A notice to quit
-* A summary-process summons and complaint
-* A court event notice
-* A motion, discovery request, or execution notice
-
-The Massachusetts courts publish the official **Summary Process Answer**, discovery forms, motions, appeals materials, and other eviction forms. Court Service Centers can help unrepresented tenants complete forms and understand procedure, although they cannot provide legal advice or represent a party. ([Massachusetts Government][5])
-
-### Defenses and counterclaims
-
-Depending on the eviction type and facts, defenses or counterclaims can include:
-
-* Defective or premature notice
-* Incorrect rent calculation
-* Rent payment or tender
-* Breach of the warranty of habitability
-* Sanitary-code violations
-* Unlawful security-deposit practices
-* Retaliation
-* Housing discrimination
-* Interference with quiet enjoyment
-* Illegal utility shutoff
-* Failure to follow subsidized-housing procedures
-* Domestic-violence-related protections
-* Waiver or acceptance of rent after termination
-* Ownership, service, or procedural defects
-
-In many **nonpayment and no-fault cases**, qualifying counterclaims can reduce the amount owed and may prevent eviction if the tenant’s recoverable claims equal or exceed the landlord’s claim, subject to the applicable statutory and procedural rules. ([Massachusetts Legal Help][6])
-
-### Emergency stays and delayed removal
-
-A tenant facing immediate displacement may seek:
-
-* A motion to stay issuance or use of the execution
-* Relief pending appeal
-* A statutory stay based on hardship
-* A reasonable accommodation related to disability
-* Emergency injunctive relief for illegal lockout or shutoff
-* Relief connected to an active rental-assistance application
-
-The availability and length of a stay depend on the eviction ground, household circumstances, court findings, and whether the tenant is required to pay rent or use-and-occupancy during the stay. Immediate legal assistance is especially important once judgment or an execution has issued.
-
-Free mediation and limited legal services may be available through court-based programs. ([Massachusetts Government][7])
+> **Disclaimer:** Informational compliance report only. Not legal advice. Verify statutes, regulations, and case law against official sources before relying on them operationally.
 
 ---
 
-## 2. Rent increases, fees, utility billing, and payment protections
+# Massachusetts Tenant Rights Report
 
-### Rent increases
+**Scope:** Massachusetts residential tenant rights, current as of **July 28, 2026**. This is an informational compliance report, not legal advice.
 
-Massachusetts does not have a general statewide rent-control system. In ordinary private housing, a landlord generally cannot raise rent during a fixed-term lease unless the lease authorizes the change.
+## Executive Summary
 
-For a tenant at will, a rent increase normally requires legally sufficient advance notice and the tenant’s agreement to continue under the new rent. A landlord cannot enforce a retroactive increase or disguise retaliation or discrimination as a rent increase.
+Massachusetts tenant protections are concentrated in **M.G.L. c. 186**, **M.G.L. c. 239**, **M.G.L. c. 111**, **M.G.L. c. 151B**, **105 CMR 410**, **940 CMR 3.17**, **940 CMR 38**, and related lead-paint, consumer-protection, fair-housing, and manufactured-housing laws.
 
-### Up-front charges
+The most important rights are: no self-help eviction, no illegal lockouts or utility shutoffs, court process before removal, strict security-deposit rules, safe and habitable housing, rent-withholding defenses, repair-and-deduct rights, anti-retaliation protection, fair-housing protection, lead-paint protection, limits on move-in fees, broker-fee reform, and special protections for survivors of domestic violence, rape, sexual assault, or stalking.
 
-Under **M.G.L. c. 186, §15B**, a landlord may generally collect only:
+Two recent changes matter immediately. First, as of **August 1, 2025**, a residential rental broker fee must be paid by the party who originally hired and contracted with the broker; tenants cannot be forced to pay a broker hired by the landlord. Second, the SJC’s **August 1, 2025** decision in *Peebles v. JRK Property Holdings* clarified that landlords may not deduct security-deposit money for reasonable wear and tear, including ordinary deterioration that may require painting, carpet work, cleaning, or similar refurbishment.
 
-* First month’s rent
-* Last month’s rent
-* A security deposit of no more than one month’s rent
-* The cost of changing the lock and key
+Sources: Massachusetts Legislature, Mass.gov, and SJC decision summary.
 
-A licensed real-estate broker may separately charge a lawful brokerage fee. Other mandatory move-in charges may violate Massachusetts law even when labeled an application, holding, amenity, administrative, cleaning, or processing fee. ([Massachusetts Legislature][8])
+- [M.G.L. c. 112, §87DDD½](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter112/Section87DDD.5)
+- [*Peebles v. JRK Property Holdings*](https://law.justia.com/cases/massachusetts/supreme-court/2025/sjc-13702.html)
 
-### Late fees
+## 1. Who Is Covered
 
-A residential lease may provide for a late fee, but Massachusetts law generally does not permit collection of the fee until rent has remained unpaid for **30 days**. A landlord may still begin a nonpayment case before that 30-day point if the applicable notice requirements are met.
+Massachusetts tenant rights generally apply to residential tenants whether they have a written lease, an oral rental agreement, or a tenancy-at-will. A tenant with a lease has rights based on the lease plus state law. A tenant-at-will usually pays rent periodically, often monthly, and either side may terminate with legally sufficient notice.
 
-### Utility billing
+Some rules vary by property type. Examples: owner-occupied 2- or 3-family homes can affect Chapter 93A consumer-protection coverage; public/subsidized housing has additional federal and program-specific rules; manufactured housing communities have their own statutory and Attorney General rule structure; rooming houses, hotels, shelters, dormitories, and licensed care settings may have different rules.
 
-Under **M.G.L. c. 186, §§22–26**, water may be charged directly to a tenant only when detailed statutory requirements are satisfied, including lawful submetering, water-conservation fixtures, written lease disclosure, and compliance with installation and testing rules.
+Mass.gov’s landlord-tenant law page is the best official hub for statewide coverage: [Massachusetts law about landlord and tenant](https://www.mass.gov/info-details/massachusetts-law-about-landlord-and-tenant).
 
-Gas and electricity should ordinarily be separately metered when the tenant is made responsible. A tenant should challenge bills covering another unit, common areas, landlord equipment, or other occupants.
+## 2. Right To Safe, Sanitary, Habitable Housing
 
-A landlord may not deliberately interrupt water, hot water, heat, electricity, gas, or other essential services to force a tenant out. Such conduct can violate **M.G.L. c. 186, §14** and expose the landlord to actual damages, statutory damages, attorney’s fees, and possible criminal consequences. ([Massachusetts Legislature][9])
+Massachusetts tenants have a right to housing that meets the State Sanitary Code, **105 CMR 410**, the minimum standards of fitness for human habitation. These rules cover conditions such as heat, hot water, plumbing, electricity, safe structure, weather protection, sanitation, pest control, kitchens, bathrooms, exits, smoke/CO issues where applicable, and other health-and-safety standards.
 
-### Payment records
+The code is enforced locally, usually by the board of health, inspectional services, housing inspection department, or code-enforcement office. Boston, Worcester, Cambridge, and other municipalities may have specific inspection agencies or local overlay rules.
 
-Tenants should preserve:
+Source: [105 CMR 410](https://www.mass.gov/regulations/105-CMR-41000-minimum-standards-of-fitness-for-human-habitation-state-sanitary-code-chapter-ii)
 
-* Receipts
-* Bank records
-* Money-order copies
-* Portal confirmations
-* Emails or texts acknowledging payment
-* Subsidy or rental-assistance records
-* A month-by-month rent ledger
+## 3. Repairs, Bad Conditions, And Rent-Withholding Defenses
 
-A tenant paying cash should request a written receipt.
+Tenants may raise bad conditions as defenses or counterclaims in certain eviction cases. Under **M.G.L. c. 239, §8A**, in a nonpayment eviction or a no-fault termination case, a tenant may raise claims related to the property, tenancy, breach of warranty, material lease breach, or violation of housing laws.
 
----
+For condition-based defenses, key facts include whether the landlord knew of the problem before the tenant fell behind, whether the tenant or household caused it, whether the condition materially affects health/safety/well-being, and whether the condition can be repaired without vacating the unit. Inspection reports can create useful presumptions.
 
-## 3. Habitability, repairs, mold, heat, water, pests, and code enforcement
+Source: [M.G.L. c. 239, §8A](https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter239/Section8A)
 
-Massachusetts rental housing is governed by the implied **warranty of habitability** and the **State Sanitary Code, 105 CMR 410.000**. The code establishes minimum standards for water, heat, plumbing, electricity, locks, ventilation, structural safety, garbage disposal, pest control, exits, smoke alarms, and other health and safety conditions. ([Massachusetts Government][10])
+## 4. Repair-And-Deduct Rights
 
-### Heat
+Massachusetts also has a statutory repair-and-deduct remedy under **M.G.L. c. 111, §127L**. If certified violations may endanger or materially impair health, safety, or well-being, and the landlord has written notice, the landlord must begin repairs or enter a written repair contract within 5 days and substantially complete repairs within 14 days, unless a shorter official order applies.
 
-Under the State Sanitary Code, required heating facilities must ordinarily maintain the legally prescribed indoor temperatures during the heating season. The detailed requirements are found in **105 CMR 410.200–410.202**.
+If the landlord fails to do so, tenants may repair or have the repairs made and deduct the cost from rent, subject to a cap of **four months’ rent in a 12-month period** or period of occupancy, whichever is shorter. Tenants do not get this protection for conditions they caused or where they unreasonably denied access.
 
-A heat outage during cold weather should be reported immediately to:
+Source: [M.G.L. c. 111, §127L](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111/Section127L)
 
-1. The landlord or property manager
-2. The municipal board of health or inspectional-services department
-3. Emergency services where conditions create an immediate threat
+## 5. Security Deposits And Last Month’s Rent
 
-### Water and hot water
+Massachusetts security-deposit law is one of the strictest in New England. At or before move-in, a landlord or landlord’s agent generally may require only: first month’s rent, last month’s rent, a security deposit equal to one month’s rent, and the cost to purchase/install a lock and key. The security deposit must be handled under **M.G.L. c. 186, §15B**.
 
-The owner must generally provide:
+Key rights include: written receipt, statement of condition, separate interest-bearing Massachusetts account, annual interest or credit, records available for inspection, transfer rules if the property is sold, and a 30-day return/accounting requirement after the tenancy ends.
 
-* Potable water
-* Functional plumbing
-* Adequate hot water
-* Proper drainage and sewage disposal
+A landlord may deduct only lawful amounts, such as unpaid rent, unpaid tax escalation if valid, or damage beyond reasonable wear and tear, and must provide a sworn itemized list with written evidence such as receipts, estimates, bills, or invoices. Depending on the violation, tenants may recover treble damages, interest, costs, and attorney’s fees.
 
-The controlling provisions include **105 CMR 410.180, 410.190, and 410.300–410.352**. ([Massachusetts Government][11])
+Source: [M.G.L. c. 186, §15B](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15b)
 
-### Mold and chronic moisture
+## 6. Security Deposits: Wear And Tear After *Peebles*
 
-Massachusetts does not treat every visible spot as a separate stand-alone “mold statute,” but water intrusion, chronic dampness, defective roofing or plumbing, poor ventilation, and deteriorated building materials may violate the sanitary code and the warranty of habitability.
+In **Peebles v. JRK Property Holdings, Inc.**, the Massachusetts SJC held that ordinary residential use causes gradual deterioration and landlords cannot deduct from a security deposit for reasonable wear and tear. Painting, carpet cleaning/repair, cleaning, and similar refurbishment may be reasonable wear and tear depending on the facts.
 
-Tenants should document:
+The court also held that a lease provision requiring a tenant to return the unit in “professionally cleaned” condition, with automatic security-deposit deductions for cleaning, painting, or repairs regardless of wear and tear, conflicted with the security-deposit statute and was void and unenforceable.
 
-* Date and location
-* Photographs and video
-* Odor and moisture
-* Leaks or flooding
-* Health effects
-* Written repair requests
-* Inspection findings
+Source: [*Peebles v. JRK Property Holdings*](https://law.justia.com/cases/massachusetts/supreme-court/2025/sjc-13702.html)
 
-### Pests
+## 7. Broker Fees, Application Fees, And Move-In Fees
 
-Under **105 CMR 410.550**, responsibility for extermination depends on the building and cause. Owners commonly bear responsibility in multiunit properties and where infestation results from structural defects or conditions outside the tenant’s control. Occupants remain responsible for avoiding conditions they create that attract pests. ([Massachusetts Government][11])
+As of **August 1, 2025**, a broker or salesperson’s rental fee must be paid by the party who originally engaged and contracted with the broker. If the landlord hired the broker, the landlord pays. If the tenant hired the broker, the tenant may be responsible.
 
-### Repair remedies
+Massachusetts also limits landlord move-in charges. Landlords generally cannot require application fees, holding deposits, amenity/community fees, upfront pet fees, cleaning fees, credit-check fees, or other extra move-in charges beyond the statutory categories.
 
-Depending on the facts, tenants may be able to:
+Sources:
 
-* Request a municipal inspection
-* Obtain a written violation report
-* Seek an order requiring repairs
-* Raise habitability defenses or counterclaims in eviction
-* Seek damages or injunctive relief
-* Use rent withholding under carefully controlled legal conditions
-* Use repair-and-deduct procedures where statutory requirements are satisfied
+- [M.G.L. c. 112, §87DDD½](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter112/Section87DDD.5)
+- [M.G.L. c. 186, §15B](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15b)
+- [Mass.gov broker-fee advisory](https://www.mass.gov/news/ags-office-releases-advisory-on-new-law-banning-forced-renter-paid-broker-fees)
 
-Rent withholding and repair-and-deduct are legally sensitive. A tenant should document conditions, notify the owner, obtain an inspection where possible, preserve withheld funds, and obtain legal advice before acting.
+## 8. Lease Copy, Late Fees, And Unfair Practices
 
----
+Attorney General regulation **940 CMR 3.17** makes various landlord practices unfair or deceptive. These include failing to provide an executed copy of a written rental agreement within 30 days after obtaining the tenant’s signature, charging improper move-in amounts, mishandling deposits, starting eviction before the notice period expires, and imposing late fees or interest unless rent is at least 30 days overdue.
 
-## 4. Security deposits and wrongful withholding
+This matters because violations may also implicate Massachusetts consumer-protection law, Chapter 93A, although coverage can depend on the landlord and property type.
 
-Security deposits are governed by **M.G.L. c. 186, §15B**, one of Massachusetts’ most detailed tenant-protection statutes. ([Massachusetts Legislature][8])
+Source: [940 CMR 3.17](https://www.law.cornell.edu/regulations/massachusetts/940-CMR-3-17)
 
-### Core rules
+## 9. Junk Fees And Automatic Renewal Watch Point
 
-A security deposit cannot exceed **one month’s rent**.
+Massachusetts **940 CMR 38.00** addresses unfair and deceptive fees and requires clearer total-price disclosures for covered transactions. It also includes negative-option and automatic-renewal rules. For rental housing operations, this can matter where leases or related services include recurring charges, fee disclosures, or automatic-renewal features.
 
-The landlord must generally:
+This is partly a compliance watch item because application to particular leasing forms and fee practices may require counsel review.
 
-* Provide a receipt
-* Hold the deposit in a separate, interest-bearing Massachusetts account
-* Disclose the bank name, address, and account information
-* Provide a statement of the unit’s condition
-* Allow the tenant to submit corrections to that statement
-* Maintain required records
-* Pay or credit required interest
-* Return the deposit or a lawful balance within **30 days after termination**
+Source: [940 CMR 38.00](https://www.mass.gov/regulations/940-CMR-3800-unfair-and-deceptive-fees)
 
-### Permitted deductions
+## 10. Quiet Enjoyment, Utilities, And No Self-Help Eviction
 
-A landlord may generally deduct only for:
+A Massachusetts landlord may not intentionally fail to furnish required utilities or services such as water, hot water, heat, light, power, gas, elevator service, telephone service, janitor service, or refrigeration service when required by law, lease, or tenancy terms. A landlord also may not interfere with another provider’s furnishing of utilities, transfer utility responsibility without the tenant’s knowledge and consent, interfere with quiet enjoyment, or regain possession by force without judicial process.
 
-* Unpaid rent not lawfully withheld
-* Certain unpaid real-estate-tax increases where a valid lease provision exists
-* Damage caused by the tenant, household members, or guests beyond reasonable wear and tear
+Violation can create liability for actual and consequential damages or **three months’ rent, whichever is greater**, plus costs and reasonable attorney’s fees.
 
-A damage deduction generally must be supported by a sworn, itemized statement and appropriate documentation.
+Source: [M.G.L. c. 186, §14](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section14)
 
-### Penalties
+## 11. Landlord Entry And Tenant Privacy
 
-Certain violations can require immediate return of the deposit. Serious violations can expose the landlord to **three times the amount improperly retained**, plus court costs and reasonable attorney’s fees.
+Massachusetts law restricts lease provisions allowing landlord entry. A lease may allow entry to inspect, make repairs, or show the unit to a prospective tenant, purchaser, mortgagee, or agent. A landlord may also enter under a court order, if the premises appear abandoned, or within the last 30 days of tenancy or after notice of termination to inspect for security-deposit damage.
 
-A tenant should preserve:
+The practical risk point: landlords should not treat ownership as a general right to enter whenever convenient. Entry should fit the statute, lease, consent, court order, abandonment, or emergency/repair context.
 
-* The deposit receipt
-* Bank disclosure
-* Statement of condition
-* Move-in and move-out photographs
-* Inspection reports
-* The lease
-* The landlord’s deduction statement
-* Proof of forwarding address
+Source: [M.G.L. c. 186, §15B](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15b)
 
----
+## 12. Rent Increases And Tenancy-At-Will Termination
 
-## 5. Landlord entry, privacy, retaliation, and lockout protections
+For a tenancy at will, either party may terminate with written notice. If rent is payable at intervals under three months, notice must be equal to the rental-payment interval or 30 days, whichever is longer. A rent increase for a tenant at will is usually handled by ending the existing tenancy and offering a new tenancy at the higher rent.
 
-### Entry and privacy
+For nonpayment by a tenant at will, a 14-day notice to quit may be used. A tenant who has not received a similar nonpayment notice in the prior 12 months has a statutory cure right if the tenant pays the full rent due within 10 days after receiving the notice; if the notice omits required cure language, the cure period can extend to the answer date in the eviction case.
 
-Massachusetts does not establish a universal “24-hour notice” rule for every private rental. The lease and circumstances matter. Under **M.G.L. c. 186, §15B**, a lease may generally permit entry to:
+Source: [M.G.L. c. 186, §12](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section12)
 
-* Inspect
-* Make repairs
-* Show the premises to prospective tenants, purchasers, mortgagees, or agents
-* Inspect within the final 30 days to determine damage
-* Comply with a court order
-* Respond to an emergency
+## 13. Eviction Rights And Procedure
 
-Entry must not become unreasonable, harassing, discriminatory, or an interference with quiet enjoyment. ([Massachusetts Legislature][8])
+Massachusetts eviction requires notice and court process. A landlord cannot legally remove a tenant just by changing locks, shutting off utilities, removing belongings, or demanding immediate departure. After notice, the landlord must file a summary process action, obtain judgment, and obtain execution before a lawful physical move-out.
 
-### Quiet enjoyment and illegal lockouts
+Mass.gov states that an eviction, also called summary process, is the court process for getting an order to remove a tenant. A Notice to Quit is required before filing. There are no blanket rules preventing evictions during winter or preventing valid evictions of tenants with children or disabilities, but discrimination, retaliation, disability accommodation, subsidy rules, and procedural defenses may apply.
 
-Under **M.G.L. c. 186, §14**, a landlord may face liability for:
+Sources:
 
-* Changing locks without legal authority
-* Removing doors
-* Cutting utilities
-* Interfering with essential services
-* Entering or disturbing the unit in a way that substantially interferes with occupancy
-* Attempting to force the tenant out without court process
+- [Mass.gov eviction law](https://www.mass.gov/info-details/massachusetts-law-about-eviction)
+- [Tenant guide to eviction](https://www.mass.gov/info-details/tenants-guide-to-eviction)
 
-A tenant facing an active lockout or utility shutoff may seek an emergency Housing Court or Superior Court order. Police and the local board of health may also need to be contacted depending on the emergency. ([Massachusetts Legislature][9])
+## 14. Emergency Rental Assistance And Nonpayment Eviction Delay
 
-### Retaliation
+In nonpayment summary process cases, **M.G.L. c. 239, §15** requires the court to grant a continuance, stay execution, and not enter judgment or issue execution before a pending emergency rental assistance application is approved or denied, if statutory conditions are met. The tenancy must be terminated solely for nonpayment, the nonpayment must be due to financial hardship, and the tenant must demonstrate a pending application.
 
-Under **M.G.L. c. 186, §18** and **M.G.L. c. 239, §2A**, landlords may not retaliate because a tenant:
+Source: [M.G.L. c. 239, §15](https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter239/Section15)
 
-* Reports suspected legal or code violations
-* Requests a health or building inspection
-* Participates in a tenant organization
-* Exercises protected housing rights
-* Uses statutory protections related to domestic violence or stalking
+## 15. Retaliation Protections
 
-An eviction, rent increase, service reduction, or material change within **six months** after protected activity may trigger a statutory presumption of retaliation, although the landlord can attempt to rebut it with independent evidence. Remedies can include damages and attorney’s fees. ([Massachusetts Legislature][12])
+Massachusetts prohibits retaliation against tenants for enforcing housing laws, reporting suspected violations to a board of health or inspection agency, complaining in writing to the landlord, joining or organizing a tenants’ union, or taking other protected actions.
 
----
+If a landlord sends a termination notice, raises rent, or substantially alters tenancy terms within six months after protected activity, the law creates a rebuttable presumption of retaliation. The landlord must rebut it by clear and convincing evidence. Remedies can include damages, costs, and attorney’s fees.
 
-## 6. Fair housing, discrimination, disability accommodations, and service animals
+Sources:
 
-Massachusetts housing discrimination law is principally found in **M.G.L. c. 151B, §4**, supplemented by the federal Fair Housing Act and other federal disability laws.
+- [M.G.L. c. 186, §18](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section18)
+- [M.G.L. c. 239, §2A](https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter239/Section2A)
 
-Massachusetts protections cover discrimination based on characteristics including:
+## 16. Fair Housing Rights
 
-* Race
-* Color
-* National origin
-* Ancestry
-* Religion
-* Sex
-* Sexual orientation
-* Gender identity or expression
-* Disability
-* Familial status
-* Marital status
-* Age
-* Veteran or military status
-* Genetic information
-* Source of income, including Section 8 or other lawful housing assistance
+Massachusetts fair housing law prohibits housing discrimination. Protected categories include race, color, religious creed, national origin, sex, gender identity, sexual orientation, genetic information, ancestry, marital status, veteran or active military status, disability, age, familial status, source of income, and other protected categories depending on the law and context.
 
-([Massachusetts Legislature][13])
+Prohibited conduct can include refusal to rent, discriminatory terms, discriminatory advertising, false representation of availability, steering, refusal of reasonable accommodation, and discrimination against voucher holders or families with children.
 
-Illegal practices may include:
+Sources:
 
-* Refusing to rent
-* Different screening standards
-* Discriminatory advertising
-* Different deposits, rents, or lease terms
-* Harassment
-* Steering
-* Refusing lawful vouchers
-* Refusing reasonable accommodations
-* Discriminatory eviction or nonrenewal
+- [Mass.gov fair housing overview](https://www.mass.gov/info-details/overview-of-fair-housing-law)
+- [Mass.gov housing discrimination overview](https://www.mass.gov/info-details/overview-of-housing-discrimination)
 
-### Disability accommodations
+## 17. Disability Accommodations And Modifications
 
-A person with a disability may request a reasonable accommodation in rules, policies, practices, or services when needed for equal use and enjoyment of housing.
+Tenants with disabilities may have rights to reasonable accommodations in rules, policies, practices, or services, and reasonable modifications where needed for equal use and enjoyment of housing. Examples can include assistance animals, accessible parking, communication changes, transfer requests, or physical modifications. The exact rule can vary by federal law, state law, subsidy program, and property type.
 
-Examples can include:
+Source: [Mass.gov fair housing overview](https://www.mass.gov/info-details/overview-of-fair-housing-law)
 
-* A reserved accessible parking space
-* A transfer to an accessible unit
-* Alternative communication methods
-* A payment-date adjustment related to disability income
-* Permission for a live-in aide
-* An exception to a no-pet policy for an assistance animal
+## 18. Lead Paint And Families With Children
 
-### Service and assistance animals
+Massachusetts lead law is a major tenant-protection area. If a child under six lives in premises containing dangerous lead levels, the owner must abate or contain the lead hazards. Owners of pre-1978 rental housing must provide required lead notifications. Landlords and agents cannot refuse to rent to families with children or evict them because the unit has lead paint or because deleading would be required.
 
-A housing provider generally cannot impose pet rent, a pet deposit, breed restrictions, or ordinary pet rules on a qualifying service or assistance animal. The tenant remains responsible for actual damage caused by the animal.
+If lead work requires relocation, the statute includes requirements about notice, licensed work, occupancy during deleading, substitute housing, moving expenses, and rent differentials in covered situations.
 
-When the disability-related need is not apparent, the provider may request reliable information supporting the disability-related need, but generally may not demand unnecessary medical records or require a particular certification purchased online.
+Sources:
 
-### Complaints
+- [M.G.L. c. 111, §197](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111/Section197)
+- [Mass.gov Lead Law](https://www.mass.gov/info-details/learn-about-massachusetts-lead-law)
 
-The **Massachusetts Commission Against Discrimination** investigates housing complaints. In most cases, an MCAD complaint must be filed within **300 days of the discriminatory act**.
+## 19. Water Submetering And Utility Charges
 
-MCAD contacts:
+A landlord may separately charge a tenant for water only if strict requirements are met. These include lawful submeter installation, water-conservation devices, certification to the local enforcement agency, lease disclosure, itemized billing, limits on what can be charged, maintenance obligations, leak-adjustment rules, and tenant rights to challenge meter accuracy.
 
-* Boston/Fall River: **617-994-6000**
-* Springfield: **413-739-2145**
-* Worcester: **508-453-9630**
-* TTY: **617-994-6196**
+The landlord remains responsible to the water company and may not shut off or refuse water service because the tenant has not paid a submetered water bill.
 
-([Massachusetts Government][14])
+Source: [M.G.L. c. 186, §22](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section22)
 
-Federal complaints can also be filed with HUD’s Office of Fair Housing and Equal Opportunity.
+## 20. Domestic Violence, Rape, Sexual Assault, And Stalking Protections
 
----
+Tenants, co-tenants, or household members who are victims of domestic violence, rape, sexual assault, or stalking may have rights to terminate a rental agreement or tenancy early under **M.G.L. c. 186, §24**, with required written notice and statutory proof if requested.
 
-## 7. Domestic violence, stalking, rape, and sexual-assault protections
+They may also request lock changes under **M.G.L. c. 186, §26**. After receiving a qualifying request, the owner must make a good-faith effort to change the locks or authorize the tenant to do so within two business days. The landlord may deny a new key to the alleged perpetrator under statutory conditions.
 
-**M.G.L. c. 186, §§24–29** provides housing protections for tenants and household members affected by domestic violence, rape, sexual assault, or stalking.
+Sources:
 
-Under **§24**, a tenant or cotenant may terminate a rental agreement and leave after giving written notice when a household member has experienced qualifying abuse within the statutory period or reasonably fears imminent serious physical harm. The statute generally refers to notice given within **three months of the most recent act**, subject to its documentation and procedural requirements. ([Massachusetts Legislature][15])
+- [M.G.L. c. 186, §24](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section24)
+- [M.G.L. c. 186, §26](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section26)
 
-Protections may include:
+## 21. Personal Property After Eviction
 
-* Early lease termination
-* Protection from liability for future rent after lawful termination
-* Lock-change rights
-* Protection against retaliation
-* Defenses to certain evictions
-* Confidential handling of relevant records
-* Federal VAWA protections in covered federally assisted housing
+If a tenant is physically removed after court process, the landlord generally cannot simply throw out the tenant’s belongings. Massachusetts eviction-storage rules require the constable or sheriff to arrange removal and storage through lawful process. Tenants may be responsible for reasonable storage charges, and property may eventually be sold after statutory notice and timing requirements.
 
-Under federal **VAWA**, covered housing providers generally cannot deny admission, terminate assistance, or evict someone because they experienced domestic violence, dating violence, sexual assault, or stalking. VAWA applies to specified federally assisted programs; it does not automatically govern every private rental or every state-funded program. ([Massachusetts Legal Help][16])
+This area is very fact-specific because voluntary move-out, abandonment, post-execution eviction, and storage-company rules can differ.
 
-A survivor facing immediate danger should prioritize safety and contact emergency or domestic-violence services. Housing deadlines and required documentation can be time-sensitive.
+Source: [MassLegalHelp eviction storage overview](https://www.masslegalhelp.org/housing-apartments-shelter/eviction/massachusetts-eviction-storage-law-protecting-belongings-tenants-facing-eviction)
 
----
+## 22. Manufactured Housing Community Tenants
 
-## 8. Subsidized housing and voucher rights
+Manufactured housing community residents have additional rights under **M.G.L. c. 140, §§32A–32S** and Attorney General manufactured-housing regulations. These protections can cover park rules, licensing, rent, eviction/termination limits, retaliation, community sale/closure issues, resident associations, and relocation or appraised-value rights in some closure/discontinuance situations.
 
-Public housing, project-based subsidized housing, Section 8 Housing Choice Vouchers, Massachusetts Rental Voucher Program units, and other assisted properties are governed by additional federal or state rules.
+A manufactured housing community owner may owe relocation costs or appraised value to certain tenants in statutory closure/discontinuance scenarios.
 
-Rights may include:
+Sources:
 
-* Written notice stating specific grounds
-* Informal review or grievance rights
-* Good-cause requirements
-* Reasonable accommodation
-* Rent-calculation review
-* Protection from source-of-income discrimination
-* Limits on termination of subsidy
-* VAWA protections in covered federal programs
-* Continued-tenancy rights after certain foreclosures or ownership changes
+- [Manufactured Housing Act PDF](https://www.mass.gov/doc/manufactured-housing-act-0/download)
+- [M.G.L. c. 140, §32L](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140/Section32L)
 
-Massachusetts law prohibits discrimination against an otherwise qualified applicant because the person receives public assistance or rental assistance. A landlord generally may not demand that a voucher holder’s income independently equal a multiple of the **full contract rent** when the tenant is responsible for only the tenant portion. ([Massachusetts Government][17])
+## 23. Local Ordinances And Municipal Overlay
 
-Tenants facing termination of a voucher or subsidy should request the hearing or appeal immediately. Administrative deadlines are frequently much shorter than ordinary court deadlines.
+Massachusetts has a stronger local-government overlay than a statewide-only report can fully capture. Boston, Cambridge, Somerville, Worcester, Springfield, and other municipalities may add rental registration, inspection, certificate, short-term rental, zoning, sanitary-code enforcement, local housing-stability, or municipal notice requirements.
 
-Applications for state public housing and certain state vouchers are handled through **CHAMP**, listed through the Executive Office of Housing and Livable Communities. ([Massachusetts Government][18])
+Boston, for example, has local housing-stability resources and broker-fee guidance. Local board-of-health orders and inspectional-services records can materially affect tenant rights in a specific dispute.
 
----
+Source: [Boston broker-fee guidance](https://www.boston.gov/departments/housing/office-housing-stability/broker-fees-3-things-know-about-new-law)
 
-## 9. Manufactured and mobile-home protections
+## 24. Current Watch List
 
-Manufactured-home community residents have specialized protections under **M.G.L. c. 140, §§32F–32S**, particularly §§32J–32O.
+* **Rent stabilization / rent control:** Massachusetts does not currently have broad statewide rent control in effect, but rent-control and rent-cap proposals remain live political and ballot-policy watch items. Local rent-stabilization proposals may require state authorization because Massachusetts repealed rent control in 1994.
+* **Junk fees / total price disclosure:** 940 CMR 38 may affect rental advertising, mandatory fees, recurring charges, and automatic-renewal provisions.
+* **Security-deposit lease forms:** After *Peebles*, move-out cleaning addenda, preset cleaning/painting charges, and wear-and-tear deductions should be treated as high-risk.
+* **Broker-fee enforcement:** The August 1, 2025 broker-fee change is still new enough that enforcement patterns and market adaptation are worth watching.
 
-Under **M.G.L. c. 140, §32L**:
+## Gap Analysis
 
-* Community rules cannot be unreasonable, unfair, or unconscionable.
-* Nonuniform rules or rent treatment among similarly situated residents may create a presumption of unfairness.
-* Owners must follow statutory rules governing fees, occupancy, sales, community rules, and resident treatment.
-* Residents have protections related to selling their homes and selecting buyers.
-* Community operators may not impose certain unlawful restrictions or charges.
-
-([Massachusetts Legislature][19])
-
-Other protections include:
-
-* Restricted grounds and procedures for termination
-* Notice and hearing rights
-* Protection from retaliation under **§32N**
-* Enforcement actions and potential damages under **§32O**
-* Resident rights when a community is offered for sale
-* Attorney General regulations governing manufactured-housing communities
-
-Because the resident often owns the home but rents the land, an attempted eviction can threaten both housing and a major personal asset. Specialized legal assistance should be obtained immediately.
-
----
-
-## 10. Municipal inspection and complaint channels
-
-The local **board of health** or inspectional-services department is the primary enforcement agency for the State Sanitary Code.
-
-A tenant may request an inspection for issues such as:
-
-* No heat
-* No hot water
-* Unsafe wiring
-* Plumbing or sewage failures
-* Pests
-* Leaks and chronic moisture
-* Structural deterioration
-* Unsafe stairs or exits
-* Broken locks
-* Trash accumulation
-* Smoke or carbon-monoxide alarm deficiencies
-
-Under **105 CMR 410.820–410.860**, local officials have inspection, violation-classification, correction-order, hearing, enforcement, and condemnation authority. ([Massachusetts Government][11])
-
-A tenant should ask for:
-
-* The inspector’s name
-* The inspection date
-* A copy of the written report
-* The violation classification
-* The correction deadline
-* Any reinspection report
-
-Interference with a lawful inspection can itself trigger enforcement consequences.
-
-Other complaint channels include:
-
-* Local building department
-* Fire department
-* Local health department
-* Massachusetts Department of Public Health
-* Attorney General’s consumer-protection office
-* MCAD for discrimination
-* HUD for federal fair-housing complaints
-
----
-
-## 11. Tenant advocacy and organizing groups
-
-### Massachusetts Law Reform Institute
-
-MLRI conducts statewide policy advocacy, impact litigation support, training, and publication of **Legal Tactics: Tenants’ Rights in Massachusetts**. It works with legal-aid programs, tenants, organizers, and community groups but ordinarily does not function as the first-line intake office for every individual case. ([Mass Law Reform Institute][20])
-
-### Massachusetts Union of Public Housing Tenants
-
-MUPHT organizes and advocates for residents of public and subsidized housing, including tenant-participation and housing-authority accountability issues.
-
-### City Life/Vida Urbana
-
-A community-based tenant-organizing organization focused on displacement, eviction defense, foreclosure-related displacement, and collective tenant action, particularly in Greater Boston.
-
-### Local tenant associations
-
-Tenants have statutory protection against retaliation for participating in a tenant union or organization under **M.G.L. c. 186, §18**. A tenant association can document common conditions, request collective repairs, invite inspectors, negotiate with ownership, and obtain organizing or legal support. ([Massachusetts Legislature][12])
-
----
-
-## 12. Court self-help resources and required forms
-
-### Massachusetts Housing Court
-
-The Housing Court hears:
-
-* Evictions
-* Code-enforcement cases
-* Repair and habitability disputes
-* Security-deposit claims
-* Discrimination matters
-* Contract and property-damage claims involving residential housing
-
-([Massachusetts Government][5])
-
-### Important court resources
-
-* Summary Process Answer form
-* Discovery forms
-* Motion to dismiss
-* Motion to stay execution
-* Appeal forms
-* Affidavit of indigency
-* Emergency civil complaint and injunction materials
-* Housing Court forms
-* District Court eviction forms where the case is filed there
-
-The official eviction-form collection is maintained by the Massachusetts Trial Court. ([Massachusetts Government][21])
-
-### Court Service Centers
-
-Court Service Centers provide free assistance to unrepresented litigants regardless of income or immigration status. They can:
-
-* Explain court procedure
-* Help identify forms
-* Assist with form completion
-* Provide multilingual help
-* Connect users with legal and community resources
-
-They cannot give legal advice or act as counsel. ([Massachusetts Government][22])
-
-### Lawyer for the Day
-
-Housing Court sessions may offer Lawyer for the Day assistance, depending on staffing. Services may include brief advice, help negotiating, reviewing forms, or limited representation. Availability is not guaranteed. ([Massachusetts Government][7])
-
----
-
-## 13. Free legal aid, eligibility, phone numbers, and intake
-
-Eligibility normally depends on:
-
-* Household income
-* Assets
-* Geographic service area
-* Case type
-* Urgency
-* Conflicts of interest
-* Program capacity
-
-Some programs receive funding that allows help above the ordinary poverty-income limits, particularly for seniors, crime survivors, domestic-violence survivors, or people facing urgent housing loss.
-
-### Statewide starting points
-
-**Massachusetts Legal Resource Finder**
-Matches users with legal-aid programs, nonprofits, court programs, and other free or low-cost resources. It is the strongest statewide first stop for identifying the correct regional provider. ([Massachusetts Government][4])
-
-**Court Service Centers**
-Free procedural and form assistance for unrepresented court users; no general income or immigration-status requirement. ([Massachusetts Government][22])
-
-### Regional civil legal-aid programs
-
-**Greater Boston Legal Services**
-Boston and surrounding communities
-**617-371-1234**
-Toll-free: **800-323-3205**
-
-**Volunteer Lawyers Project**
-Primarily Greater Boston; intake and limited representation vary by program
-**617-603-1700**
-
-**Harvard Legal Aid Bureau**
-Student attorneys supervised by licensed attorneys
-**617-495-4408**
-
-**Legal Services Center of Harvard Law School**
-Student practice under attorney supervision
-**617-522-3003**
-
-**MetroWest Legal Services**
-MetroWest communities
-**508-620-1830**
-Toll-free: **800-696-1501**
-
-**Northeast Legal Aid**
-Northeastern Massachusetts
-**978-458-1465**
-
-**South Coastal Counties Legal Services**
-
-* Brockton: **508-586-2110**
-* Fall River: **508-676-6265**
-* Hyannis: **508-775-7020**
-
-**Community Legal Aid**
-Central and Western Massachusetts
-**855-252-5342**
-TTY: **508-755-3260**
-
-The Massachusetts court system maintains this regional list and recommends contacting the relevant organization to determine eligibility and intake availability. ([Massachusetts Government][23])
-
-### Paid or reduced-fee referral
-
-Massachusetts Bar Association Lawyer Referral Service:
-
-* **617-654-0400**
-* **866-627-7577**
-
-This is not automatically free legal representation, but it can help locate a private attorney. ([Massachusetts Government][23])
-
----
-
-## 14. Emergency housing, homelessness prevention, and rental assistance
-
-### RAFT
-
-The **Residential Assistance for Families in Transition** program provides short-term emergency assistance for qualifying households facing:
-
-* Eviction
-* Rent arrears
-* Utility shutoff
-* Moving costs
-* Certain housing-startup costs
-* Other housing emergencies
-
-Applications are administered through regional agencies. Eligibility, documentation, benefit limits, and covered expenses are determined under current program rules; assistance is not guaranteed merely because an application is filed. Interpreter services are available. ([Massachusetts Government][24])
-
-### Massachusetts 211
-
-Call **211** or **877-211-6277** for referrals involving:
-
-* Emergency shelter
-* Rental assistance
-* Utility assistance
-* Food
-* Heating assistance
-* Domestic-violence services
-* Local community resources
-
-([Mass Legal Services][25])
-
-### Executive Office of Housing and Livable Communities
-
-General housing-program questions: **211**
-
-Main office: **617-573-1100**
-TTY: **617-573-1140**
-
-The agency provides information concerning RAFT, emergency shelter, HomeBASE, public housing, vouchers, home-energy assistance, and regional administering agencies. ([Massachusetts Government][26])
-
-### Emergency Assistance Family Shelter
-
-Massachusetts operates an Emergency Assistance shelter program for certain eligible families with children and pregnant individuals. Eligibility rules, documentation, prioritization, and placement requirements apply. A denial or termination can carry appeal rights with short deadlines. ([Massachusetts Government][27])
-
-### HomeBASE
-
-HomeBASE may provide eligible families in the Emergency Assistance system with financial and stabilization support designed to avoid shelter or help a family leave shelter. Availability and amounts depend on current regulations and appropriations.
-
-### Home Energy Assistance
-
-Income-eligible households may seek heating assistance through the state’s home-energy assistance system. Utility customers should also ask their utility about:
-
-* Arrearage-management plans
-* Discount rates
-* Payment arrangements
-* Medical-protection rules
-* Winter shutoff protections
-
----
-
-## Immediate tenant action checklist
-
-When a Massachusetts renter receives a notice, loses utilities, faces dangerous conditions, or believes discrimination occurred:
-
-1. **Do not ignore the notice or court papers.**
-2. Photograph every page and preserve the envelope or service information.
-3. Build a rent-payment and event timeline.
-4. Save the lease, receipts, inspection reports, messages, and photographs.
-5. Request a municipal inspection for health or safety violations.
-6. Complete and file the official Answer and any applicable discovery on time.
-7. Apply promptly for RAFT or other emergency assistance.
-8. Contact the regional legal-aid provider or Legal Resource Finder.
-9. Seek emergency court relief for a lockout, shutoff, or immediate health hazard.
-10. File discrimination complaints within the applicable limitation period; MCAD generally uses a **300-day deadline**. ([Massachusetts Government][28])
+This report covers statewide Massachusetts law and selected official/public sources. It does not fully audit every municipal rental registration, inspection, local board of health, fire-code, zoning, short-term rental, or housing-stability ordinance. Additional reports will be run separately as needed.
 
 ---
 
@@ -677,44 +246,14 @@ When a Massachusetts renter receives a notice, loses utilities, faces dangerous 
 
 | Level | Item | Notes |
 |-------|------|-------|
-| 1 — High Severity | Self-help eviction / lockout / utility shutoff | Prohibited; requires court judgment + execution (**M.G.L. c. 186, §14**; **c. 239**) |
-| 1 — High Severity | Notice to quit + summary process deadlines | 14-day notice (written lease nonpayment); at-will notice = rent interval or 30 days |
-| 1 — High Severity | Security deposit violations | Cap one month’s rent; triple damages possible (**§15B**) |
-| 1 — High Severity | Heat / water / sanitary-code failures | **105 CMR 410**; municipal inspection + habitability remedies |
-| 1 — High Severity | Discrimination / MCAD filing | **300-day** complaint deadline |
-| 2 — Case Law / Public Record | Habitability counterclaims in eviction | May offset or defeat nonpayment claims |
-| 2 — Case Law / Public Record | Retaliation presumption | **Six months** after protected activity (**§18**; **c. 239, §2A**) |
-| 3 — Watch List | RAFT / HomeBASE / EA shelter | Program rules and funding change; apply promptly |
-
----
-
-## Sources
-
-[1]: https://www.mass.gov/eviction-for-tenants "Eviction for Tenants - Mass.gov"
-[2]: https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section11 "General Law - Part II, Title I, Chapter 186, Section 11"
-[3]: https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section12 "General Law - Part II, Title I, Chapter 186, Section 12"
-[4]: https://www.mass.gov/info-details/tenants-guide-to-eviction "Tenants' guide to eviction - Mass.gov"
-[5]: https://www.mass.gov/lists/housing-court-forms "Housing Court forms - Mass.gov"
-[6]: https://www.masslegalhelp.org/housing-apartments-shelter/eviction/important-legal-defenses-and-counterclaims "Important Legal Defenses and Counterclaims - Massachusetts Legal Help"
-[7]: https://www.mass.gov/info-details/eviction-legal-services-and-mediation "Eviction Legal Services and Mediation - Mass.gov"
-[8]: https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15b "General Law - Part II, Title I, Chapter 186, Section 15B"
-[9]: https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186 "Chapter 186"
-[10]: https://www.mass.gov/regulations/105-CMR-41000-minimum-standards-of-fitness-for-human-habitation-state-sanitary-code-chapter-ii "105 CMR 410.00: Minimum standards of fitness for human habitation ..."
-[11]: https://www.mass.gov/doc/105-cmr-depatment-of-public-health-cmr-105-410000-minimum-standards-of-fitness-for-human-habitation-state-sanitary-code-chapter-ii/download "105 CMR: DEPARTMENT OF PUBLIC HEALTH - Mass.gov"
-[12]: https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section18 "General Law - Part II, Title I, Chapter 186, Section 18"
-[13]: https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXXI/Chapter151b "Chapter 151B - Massachusetts Legislature"
-[14]: https://www.mass.gov/orgs/massachusetts-commission-against-discrimination "Massachusetts Commission Against Discrimination | Mass.gov"
-[15]: https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section24 "General Law - Part II, Title I, Chapter 186, Section 24"
-[16]: https://www.masslegalhelp.org/housing-apartments-shelter/domestic-violence-housing/protection-eviction-survivors-domestic-abuse-sexual-violence-and-stalking "Protection from eviction: Survivors of domestic abuse, sexual violence ..."
-[17]: https://www.mass.gov/fair-housing-law "Fair Housing Law - Mass.gov"
-[18]: https://www.mass.gov/info-details/housing-assistance-for-massachusetts-residents "Housing Assistance for Massachusetts Residents | Mass.gov"
-[19]: https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXX/Chapter140/Section32L "General Law - Part I, Title XX, Chapter 140, Section 32L"
-[20]: https://mlri.org/advocacy-issues/housing/ "Housing - Mass Law Reform Institute"
-[21]: https://www.mass.gov/lists/court-forms-for-eviction "Court forms for eviction - Mass.gov"
-[22]: https://www.mass.gov/orgs/court-service-centers "Court Service Centers - Mass.gov"
-[23]: https://www.mass.gov/info-details/finding-legal-help "Finding legal help - Mass.gov"
-[24]: https://www.mass.gov/how-to/apply-for-raft-emergency-help-for-housing-costs "Apply for RAFT (emergency help for housing costs) - Mass.gov"
-[25]: https://www.masslegalservices.org/content/mass211 "Mass211 | Mass Legal Services"
-[26]: https://www.mass.gov/orgs/emergency-housing-help-programs "Emergency Housing Help Programs - Mass.gov"
-[27]: https://www.mass.gov/emergency-housing-assistance "Emergency Housing Assistance - Mass.gov"
-[28]: https://www.mass.gov/decision-tree/file-a-complaint-of-discrimination-at-the-mcad "File a Complaint of Discrimination at the MCAD - Mass.gov"
+| 1 — High Severity | Self-help eviction / lockout / utility shutoff | **M.G.L. c. 186, §14** — greater of actual damages or 3 months’ rent + fees |
+| 1 — High Severity | Security deposit / wear-and-tear after *Peebles* | No deductions for reasonable wear and tear; “professionally cleaned” auto-deduct clauses void |
+| 1 — High Severity | Broker-fee reform | **Aug 1, 2025** — party who hired the broker pays (**c. 112, §87DDD½**) |
+| 1 — High Severity | Habitability / repair-and-deduct | **105 CMR 410**; **c. 111, §127L** — 5/14-day repair clock; 4-month rent cap |
+| 1 — High Severity | Lead paint (child under 6) | **c. 111, §197** — abate/contain; no refusal to rent to families with children |
+| 2 — Case Law / Public Record | Rent-withholding / §8A counterclaims | Nonpayment and no-fault cases |
+| 2 — Case Law / Public Record | Retaliation presumption | 6 months after protected activity; clear-and-convincing rebuttal |
+| 2 — Case Law / Public Record | Emergency rental assistance stay | **c. 239, §15** in qualifying nonpayment cases |
+| 3 — Watch List | Rent control / stabilization proposals | No broad statewide rent control in effect |
+| 3 — Watch List | 940 CMR 38 junk fees / auto-renewal | Fee disclosure and negative-option compliance |
+| 3 — Watch List | Municipal overlays | Boston, Cambridge, Somerville, Worcester, Springfield, etc. |
