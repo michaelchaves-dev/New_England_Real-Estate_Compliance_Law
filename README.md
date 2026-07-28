@@ -53,15 +53,15 @@ A central registry covering state tenant and landlord law, statutory frameworks,
 
 ## Jurisdictions
 
-| State | Abbreviation | Status |
-|-------|--------------|--------|
-| Massachusetts | MA | Planned |
-| New Hampshire | NH | Planned |
-| Maine | ME | Planned |
-| Vermont | VT | Planned |
-| Connecticut | CT | Planned |
+| State | Abbreviation | File | Status |
+|-------|--------------|------|--------|
+| Massachusetts | MA | [`states/massachusetts.md`](states/massachusetts.md) | Awaiting reports |
+| New Hampshire | NH | [`states/new-hampshire.md`](states/new-hampshire.md) | Awaiting reports |
+| Maine | ME | — | Planned |
+| Vermont | VT | — | Planned |
+| Connecticut | CT | — | Planned |
 
-State folders and statute summaries will be added as the registry is populated.
+Upload state reports and they will be used to populate each file’s compliance sections and risk log.
 
 ---
 
