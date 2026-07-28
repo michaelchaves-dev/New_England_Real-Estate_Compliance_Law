@@ -264,15 +264,107 @@ Sources: [Manufactured Housing Act](https://www.mass.gov/doc/manufactured-housin
 
 ## 28. Tenant Responsibilities
 
-Tenants must pay rent, follow lawful lease terms, avoid damage beyond ordinary wear and tear, keep the unit reasonably clean, dispose of trash properly, avoid nuisance or illegal activity, avoid disturbing other tenants, notify landlords of serious problems, allow lawful access, and comply with lawful court orders.
+* Pay rent on time under the lease or tenancy agreement.
+* Follow lawful lease terms.
+* Do not damage the unit beyond ordinary wear and tear.
+* Keep the unit reasonably clean and sanitary.
+* Dispose of trash properly.
+* Use plumbing, electrical, heating, and appliances properly.
+* Do not deliberately or negligently destroy, deface, damage, impair, or remove any part of the premises.
+* Do not allow household members or guests to damage the property.
+* Do not create nuisance conditions.
+* Do not disturb other tenants’ quiet enjoyment.
+* Do not use the premises for illegal activity.
+* Do not overcrowd the unit beyond lawful occupancy limits.
+* Provide access when legally required for repairs, inspection, showing, court order, abandonment inspection, or security-deposit damage inspection.
+* Do not unreasonably deny access when the landlord must make necessary repairs.
+* Notify the landlord of serious repair issues, unsafe conditions, leaks, pest issues, or code problems.
+* For rent withholding defenses, make sure the landlord knew of the condition before arrears, the tenant did not cause it, and the problem materially affects habitability.
+* For repair-and-deduct, follow the statutory process: certified violation, written notice, 5-day start/contract window, 14-day substantial-completion window, and four-month rent cap.
+* Preserve evidence: photos, inspection reports, notices, rent receipts, texts, emails, and repair requests.
+* Return possession at the end of tenancy according to the lease or lawful termination.
+* Remove personal property when moving unless lawful eviction-storage rules apply.
+* Give forwarding address if seeking security-deposit return.
+* Review and respond to the statement of condition, usually within the statutory period.
+* Avoid causing pest or infestation conditions.
+* Cooperate with lawful pest remediation preparation instructions when required.
+* For water submetering, pay lawful, properly billed water charges if the landlord complied with the statute.
+* For domestic-violence lock changes, do not voluntarily give the new key to the alleged perpetrator.
+* For lead/deleading work, cooperate with lawful temporary relocation or safety requirements when properly handled.
+* In eviction court, file an answer/appearance on time if contesting the case.
+* Pay any court-ordered use-and-occupancy amounts if ordered.
+* For tenants-at-will, understand that rejecting a lawful rent-increase offer may lead to termination of the old tenancy with proper notice.
 
 These responsibilities do not erase landlord duties.
 
-## 29. Current Watch List
+## 29. Landlord Responsibilities
+
+* Provide habitable housing that complies with **105 CMR 410**, the State Sanitary Code.
+* Maintain structural elements, plumbing, heat, hot water, electricity, exits, weather protection, sanitation, and other code-required systems.
+* Provide heat and hot water where legally required.
+* Make required repairs within lawful timeframes.
+* Do not rent a unit that fails minimum habitability standards.
+* Do not shut off utilities or interfere with required services.
+* Do not transfer utility responsibility to the tenant without knowledge and consent.
+* Do not interfere with quiet enjoyment.
+* Do not lock tenants out.
+* Do not remove tenants or their property without court process.
+* Use lawful eviction process: notice, summary process, judgment, execution.
+* Serve required Notice to Quit before filing eviction.
+* Do not file eviction before the notice period expires.
+* Honor nonpayment cure rights when applicable.
+* Comply with emergency rental assistance continuance/stay rules in qualifying nonpayment cases.
+* Do not retaliate against tenants for reporting code violations, joining tenant organizations, enforcing rights, or complaining in writing.
+* Do not discriminate under Massachusetts or federal fair housing law.
+* Provide reasonable accommodations for disability when legally required.
+* Do not refuse voucher holders because of lawful source of income.
+* Do not refuse families with children because of lead paint.
+* Comply with lead-paint notice and deleading duties for pre-1978 housing and children under six.
+* Pay relocation/rent differential duties where lead work requires substitute housing under the statute.
+* Limit move-in charges to lawful categories.
+* Do not charge illegal application, pet, cleaning, amenity, holding, credit-check, or similar upfront fees.
+* Since **August 1, 2025**, do not force tenants to pay broker fees unless the tenant originally hired and contracted with the broker.
+* Give an executed copy of the lease within 30 days after obtaining tenant signature.
+* Do not charge late fees or interest unless rent is at least 30 days overdue.
+* Handle security deposits exactly under **M.G.L. c. 186, §15B**.
+* Cap security deposits at one month’s rent.
+* Provide proper security-deposit receipt.
+* Provide statement of condition.
+* Hold the security deposit in a separate interest-bearing Massachusetts bank account.
+* Pay or credit required interest.
+* Keep deposit records available.
+* Transfer deposit properly on sale of property.
+* Return deposit or lawful itemized deductions within 30 days after tenancy ends.
+* Do not deduct for reasonable wear and tear.
+* Do not use lease clauses that waive security-deposit rights.
+* Do not impose automatic cleaning/painting deductions that conflict with *Peebles*.
+* Allow landlord entry only for lawful purposes: inspection, repairs, showing, court order, abandonment, or final damage inspection.
+* Follow water submetering rules before billing tenants separately for water.
+* Do not add unlawful water billing, meter, admin, or service fees.
+* Do not shut off water because of unpaid submeter charges.
+* Follow domestic violence, sexual assault, rape, and stalking protections.
+* Change locks or authorize lock changes within two business days when statutory requirements are met.
+* Keep victim documentation confidential where required.
+* Follow manufactured housing community rules if operating a park.
+* Follow local registration, inspection, certificate, fire, zoning, and board-of-health requirements.
+
+## 30. Core Sources (Responsibilities)
+
+* [Mass.gov landlord-tenant guide](https://www.mass.gov/guides/the-attorney-generals-guide-to-landlord-and-tenant-rights)
+* [M.G.L. c. 186, §15B](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section15b)
+* [M.G.L. c. 186, §14](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section14)
+* [M.G.L. c. 186, §18](https://malegislature.gov/Laws/GeneralLaws/PartII/TitleI/Chapter186/Section18)
+* [M.G.L. c. 239, §8A](https://malegislature.gov/Laws/GeneralLaws/PartIII/TitleIII/Chapter239/Section8A)
+* [M.G.L. c. 111, §127L](https://malegislature.gov/Laws/GeneralLaws/PartI/TitleXVI/Chapter111/Section127L)
+* [105 CMR 410](https://www.mass.gov/regulations/105-CMR-41000-minimum-standards-of-fitness-for-human-habitation-state-sanitary-code-chapter-ii)
+* [940 CMR 3.17](https://www.law.cornell.edu/regulations/massachusetts/940-CMR-3-17)
+* [*Peebles v. JRK Property Holdings*](https://law.justia.com/cases/massachusetts/supreme-court/2025/sjc-13702.html)
+
+## 31. Current Watch List
 
 Massachusetts rent-control or rent-stabilization proposals remain politically active but are not currently broad statewide law. Broker-fee enforcement, security-deposit practices after *Peebles*, 940 CMR 38 junk-fee compliance, and local registration/inspection rules are the most important watch items.
 
-## 30. Gap Analysis
+## 32. Gap Analysis
 
 This is statewide. It does not fully audit every city or town. Boston, Cambridge, Somerville, Worcester, Springfield, and other municipalities can add rental registration, inspection, certificate, zoning, fire, short-term rental, and board-of-health requirements.
 
