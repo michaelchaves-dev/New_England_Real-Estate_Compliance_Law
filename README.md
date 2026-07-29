@@ -55,11 +55,11 @@ A central registry covering state tenant and landlord law, statutory frameworks,
 
 | State | Abbreviation | File | Status |
 |-------|--------------|------|--------|
-| Massachusetts | MA | [`states/massachusetts.md`](states/massachusetts.md) | Baseline renters’ rights (July 28, 2026) |
-| New Hampshire | NH | [`states/new-hampshire.md`](states/new-hampshire.md) | Populated (July 28, 2026 baseline renters’ rights) |
-| Maine | ME | — | Planned |
-| Vermont | VT | — | Planned |
-| Connecticut | CT | — | Planned |
+| Massachusetts | MA | [`states/massachusetts.md`](states/massachusetts.md) | Baseline renters’ rights (July 28, 2026); 2026 renters insurance tips added |
+| New Hampshire | NH | [`states/new-hampshire.md`](states/new-hampshire.md) | Baseline renters’ rights (July 28, 2026); 2026 renters insurance tips added |
+| Maine | ME | [`states/maine.md`](states/maine.md) | 2026 renters insurance tips; full rights report planned |
+| Vermont | VT | [`states/vermont.md`](states/vermont.md) | 2026 renters insurance tips; full rights report planned |
+| Connecticut | CT | [`states/connecticut.md`](states/connecticut.md) | 2026 renters insurance tips; full rights report planned |
 
 Upload state reports and they will be used to populate each file’s compliance sections and risk log.
 
