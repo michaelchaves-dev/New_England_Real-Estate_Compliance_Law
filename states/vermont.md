@@ -28,23 +28,23 @@ Practical action: landlords should not charge application, review, screening, or
 
 ### Rent Increases Require Written Notice
 
-A rent increase is not effective unless the tenant receives proper written notice. Statewide, the landlord must give at least **60 days’ written notice** before the increase takes effect. The notice must be mailed or hand-delivered. Burlington generally requires **90 days’ written notice**. ([VTLawHelp rent increases](https://vtlawhelp.org/rent-increases))
+A rent increase is not effective unless the tenant receives proper written notice. Statewide, the landlord must give at least **60 days’ written notice** before the increase takes effect. The notice must be mailed or hand-delivered. Burlington generally requires **90 days’ written notice**. ([VTLawHelp rent increases](https://www.vtlawhelp.org/rent-increases))
 
 Practical action: use written rent-increase notices and check local rules before issuing increases.
 
 ### Security Deposits Must Be Returned Quickly
 
-Vermont requires landlords to return the security deposit with a written itemized statement of deductions within **14 days** after the landlord discovers the tenant has vacated or abandoned the unit, or from the date the tenant vacated if the tenant gave notice of that date. Permitted deductions include unpaid rent, damage beyond normal wear and tear, unpaid utility or other charges the tenant owed, and costs to remove abandoned property. If the landlord misses the deadline, the landlord forfeits the right to withhold any part of the deposit; willful failure can mean double damages plus attorney’s fees and costs. ([9 V.S.A. § 4461](https://legislature.vermont.gov/statutes/section/09/137/04461)) ([CVOEO security deposits](https://www.cvoeo.org/))
+Vermont requires landlords to return the security deposit with a written itemized statement of deductions within **14 days** after the landlord discovers the tenant has vacated or abandoned the unit, or from the date the tenant vacated if the tenant gave notice of that date. Permitted deductions include unpaid rent, damage beyond normal wear and tear, unpaid utility or other charges the tenant owed, and costs to remove abandoned property. If the landlord misses the deadline, the landlord forfeits the right to withhold any part of the deposit; willful failure can mean double damages plus attorney’s fees and costs. ([9 V.S.A. § 4461](https://legislature.vermont.gov/statutes/section/09/137/04461); [VTLawHelp security deposits](https://www.vtlawhelp.org/security-deposits))
 
-Important correction: Vermont has **no statewide security deposit cap**, though Burlington and Barre have local deposit limits and interest rules. ([Renting in Vermont handbook](https://www.cvoeo.org/); Burlington Housing Board of Review)
+Important correction: Vermont has **no statewide security deposit cap**, though Burlington and Barre have local deposit limits and interest rules. ([VTLawHelp security deposits](https://www.vtlawhelp.org/security-deposits); Burlington Housing Board of Review)
 
 ## 2. Habitability And Repairs
 
 Vermont landlords must deliver and maintain rental housing that is safe, clean, fit for human habitation, and compliant with building, housing, and health regulations. ([9 V.S.A. § 4457](https://legislature.vermont.gov/statutes/section/09/137/04457))
 
-Minimum habitability expectations include working plumbing, potable water, hot water, safe wastewater disposal, safe electrical service, heating facilities, structural safety, and compliance with the Vermont Rental Housing Health Code. VTLawHelp summarizes that if the outdoor temperature is below **55 degrees**, the heating system must be able to maintain at least **65 degrees** in rooms. ([VTLawHelp repairs](https://vtlawhelp.org/repairs); Vermont rental housing code summary)
+Minimum habitability expectations include working plumbing, potable water, hot water, safe wastewater disposal, safe electrical service, heating facilities, structural safety, and compliance with the Vermont Rental Housing Health Code. VTLawHelp summarizes that if the outdoor temperature is below **55 degrees**, the heating system must be able to maintain at least **65 degrees** in rooms. ([VTLawHelp repairs](https://www.vtlawhelp.org/repairs); Vermont rental housing code summary)
 
-If a condition materially affects health or safety and the landlord fails to fix it after written notice and a reasonable time, a tenant may have remedies including rent withholding, filing in court for injunctive relief, damages, attorney’s fees, or ending the rental agreement. Tenants should be careful with rent withholding and get legal advice where possible. ([9 V.S.A. § 4458](https://legislature.vermont.gov/statutes/section/09/137/04458); [VTLawHelp repairs](https://vtlawhelp.org/repairs))
+If a condition materially affects health or safety and the landlord fails to fix it after written notice and a reasonable time, a tenant may have remedies including rent withholding, filing in court for injunctive relief, damages, attorney’s fees, or ending the rental agreement. Tenants should be careful with rent withholding and get legal advice where possible. ([9 V.S.A. § 4458](https://legislature.vermont.gov/statutes/section/09/137/04458); [VTLawHelp repairs](https://www.vtlawhelp.org/repairs))
 
 For minor defects, tenants may be able to repair and deduct after notice, but the deduction generally may not exceed **one-half of one month’s rent**. ([9 V.S.A. § 4459](https://legislature.vermont.gov/statutes/section/09/137/04459))
 
@@ -54,7 +54,7 @@ A landlord may enter with the tenant’s consent, which cannot be unreasonably w
 
 ## 4. Eviction Rights And Notice Periods
 
-A termination notice is only the first step. A tenant does not have to leave unless the tenant voluntarily moves or the landlord files an eviction case and wins a court order. ([VTLawHelp termination notice](https://vtlawhelp.org/); [Vermont Judiciary eviction process](https://www.vermontjudiciary.org/))
+A termination notice is only the first step. A tenant does not have to leave unless the tenant voluntarily moves or the landlord files an eviction case and wins a court order. ([VTLawHelp ending tenancy](https://www.vtlawhelp.org/ending-tenancy-and-moving-out); [Vermont Judiciary](https://www.vermontjudiciary.org/))
 
 Common statewide notice periods:
 
@@ -67,23 +67,23 @@ Common statewide notice periods:
 | No-cause termination at end of written rental agreement | **30 days** if tenancy is two years or less; **60 days** if more than two years |
 | Sale of building with no written rental agreement | Generally **30 days** |
 
-Burlington no-cause rules can be longer: VTLawHelp reports **90 days** if the tenant lived there less than two years and **120 days** if two years or more. ([9 V.S.A. § 4467](https://legislature.vermont.gov/statutes/section/09/137/04467); [VTLawHelp Burlington notice rules](https://vtlawhelp.org/))
+Burlington no-cause rules can be longer: VTLawHelp reports **90 days** if the tenant lived there less than two years and **120 days** if two years or more. ([9 V.S.A. § 4467](https://legislature.vermont.gov/statutes/section/09/137/04467); [VTLawHelp ending tenancy](https://www.vtlawhelp.org/ending-tenancy-and-moving-out))
 
 ## 5. Illegal Evictions
 
-Vermont prohibits self-help eviction. A landlord may not shut off utilities, lock a tenant out, deny access to the rented premises, or remove tenant property except through proper judicial process. ([9 V.S.A. § 4463](https://legislature.vermont.gov/statutes/section/09/137/04463); [VTLawHelp lockouts and shutoffs](https://vtlawhelp.org/))
+Vermont prohibits self-help eviction. A landlord may not shut off utilities, lock a tenant out, deny access to the rented premises, or remove tenant property except through proper judicial process. ([9 V.S.A. § 4463](https://legislature.vermont.gov/statutes/section/09/137/04463); [VTLawHelp](https://www.vtlawhelp.org/))
 
 Practical action: lock changes, utility interruptions, or property removal should be treated as high-risk conduct unless authorized by court process or a true emergency repair situation.
 
 ## 6. Retaliation Protections
 
-A landlord may not retaliate by changing rental terms, threatening eviction, or bringing an action because the tenant complained to a government agency about health/safety violations, complained to the landlord about violations of the rental law, or joined/organized a tenant association. ([9 V.S.A. § 4465](https://legislature.vermont.gov/statutes/section/09/137/04465); [VTLawHelp RRAA summary](https://vtlawhelp.org/))
+A landlord may not retaliate by changing rental terms, threatening eviction, or bringing an action because the tenant complained to a government agency about health/safety violations, complained to the landlord about violations of the rental law, or joined/organized a tenant association. ([9 V.S.A. § 4465](https://legislature.vermont.gov/statutes/section/09/137/04465); [VTLawHelp rental agreements](https://www.vtlawhelp.org/rental-agreements))
 
 Retaliation can be a defense in an eviction case. Property managers should document legitimate, non-retaliatory reasons for notices issued after tenant complaints.
 
 ## 7. Fair Housing And Discrimination
 
-Vermont fair housing law protects renters from discrimination based on race, color, national origin, immigration status, citizenship, religion, pregnancy or living with children under 18, receipt of public assistance or benefits, sexual orientation, sex, gender identity, victim status related to domestic violence/stalking/sexual assault, disability, age, and marital status. ([VTLawHelp fair housing](https://vtlawhelp.org/fair-housing); CVOEO fair housing)
+Vermont fair housing law protects renters from discrimination based on race, color, national origin, immigration status, citizenship, religion, pregnancy or living with children under 18, receipt of public assistance or benefits, sexual orientation, sex, gender identity, victim status related to domestic violence/stalking/sexual assault, disability, age, and marital status. ([VTLawHelp fair housing](https://www.vtlawhelp.org/fair-housing))
 
 Federal fair housing law also protects against discrimination based on race, color, national origin, religion, sex, familial status, and disability. ([HUD Fair Housing Act overview](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview))
 
