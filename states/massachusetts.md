@@ -2,9 +2,9 @@
 
 Landlord-tenant compliance registry for Massachusetts.
 
-**Status:** Populated from baseline Massachusetts Tenant Rights Report (current as of **July 28, 2026**).
+**Status:** Populated from baseline Massachusetts Tenant Rights Report (current as of **July 28, 2026**); 2026 renters insurance tips included.
 
-> **Disclaimer:** Informational compliance report only. Not legal advice. Verify statutes, regulations, and case law against official sources before relying on them operationally.
+> **Disclaimer:** Informational compliance report only. Not legal advice or an insurance recommendation. Verify statutes, regulations, case law, and insurance details against official sources before relying on them operationally.
 
 ---
 

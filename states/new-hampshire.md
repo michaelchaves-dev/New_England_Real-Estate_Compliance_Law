@@ -2,9 +2,9 @@
 
 Landlord-tenant compliance registry for New Hampshire.
 
-**Status:** Populated from baseline New Hampshire Tenant Rights Report (current as of **July 28, 2026**).
+**Status:** Populated from baseline New Hampshire Tenant Rights Report (current as of **July 28, 2026**); 2026 renters insurance tips included.
 
-> **Disclaimer:** Informational compliance report only. Not legal advice. Verify statutes, court forms, and effective dates against official New Hampshire sources before relying on them operationally.
+> **Disclaimer:** Informational compliance report only. Not legal advice or an insurance recommendation. Verify statutes, court forms, effective dates, and insurance details against official New Hampshire sources before relying on them operationally.
 
 ---
 
