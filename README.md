@@ -1,8 +1,10 @@
 # New England Landlord-Tenant Compliance Registry
 
-A central registry covering state tenant and landlord law, statutory frameworks, and regulatory compliance across New England jurisdictions (**MA · NH · ME · VT · CT**), including N.E. renters’ rights by state.
+A central registry covering state tenant and landlord law, statutory frameworks, and regulatory compliance across New England jurisdictions (**MA · NH · ME · VT · CT · RI**), including renters’ rights by state.
 
 > **Disclaimer:** This repository is for informational and organizational purposes only. It is not legal advice. Always verify statutes, regulations, and case law against official sources.
+
+**Product split:** tenant-rights text and crisis links are **free**. Commercial playbooks for property managers, landlords, and counsel are **paid**. See [`PRODUCT.md`](PRODUCT.md).
 
 ---
 
@@ -56,12 +58,14 @@ A central registry covering state tenant and landlord law, statutory frameworks,
 | State | Abbreviation | File | Status |
 |-------|--------------|------|--------|
 | Massachusetts | MA | [`states/massachusetts.md`](states/massachusetts.md) | Baseline renters’ rights (July 28, 2026) |
-| New Hampshire | NH | [`states/new-hampshire.md`](states/new-hampshire.md) | Populated (July 28, 2026 baseline renters’ rights) |
-| Maine | ME | — | Planned |
-| Vermont | VT | [`states/vermont.md`](states/vermont.md) | Populated (July 30, 2026 baseline renters’ rights) |
-| Connecticut | CT | — | Planned |
+| New Hampshire | NH | [`states/new-hampshire.md`](states/new-hampshire.md) | Populated (July 28, 2026 baseline) |
+| Maine | ME | [`states/maine.md`](states/maine.md) | Populated September 13, 2026 |
+| Vermont | VT | [`states/vermont.md`](states/vermont.md) | Populated (July 30, 2026 baseline) |
+| Connecticut | CT | [`states/connecticut.md`](states/connecticut.md) | Populated September 13, 2026 |
+| Rhode Island | RI | [`states/rhode-island.md`](states/rhode-island.md) | Populated September 13, 2026 (was missing) |
 
-Upload state reports and they will be used to populate each file’s compliance sections and risk log.
+Cross-state snapshot: [`resources/comparison.md`](resources/comparison.md).
+Free renter desk (211, legal aid, RAFT/HEAP, utilities, insurance): [`resources/renter-help.md`](resources/renter-help.md).
 
 ---
 
